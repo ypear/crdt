@@ -1,0 +1,27 @@
+{
+  "name": "@ypear/crdt",
+  "version": "0.0.1",
+  "description": "Manage y.js crdt ontop of a hyperswarm",
+  "main": "crdt.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ypear/crdt"
+  },
+  "dependencies": {
+    "level": "^6.0.1",
+    "yjs": "^13.6.24"
+  },
+  "keywords": [
+    "local-first",
+    "offline-first",
+    "distributed",
+    "p2p",
+    "hypercore",
+    "corestore",
+    "hyperswarm",
+    "database",
+    "autobase"
+  ],
+  "author": "Benz Muircroft",
+  "license": "MIT"
+}
