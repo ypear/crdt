@@ -23,7 +23,8 @@
     "corestore",
     "hyperswarm",
     "database",
-    "autobase"
+    "autobase",
+    "yjs"
   ],
   "author": "Benz Muircroft",
   "license": "MIT"
